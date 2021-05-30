@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712110704258",
+    "project_id": "half-b46c3",
+    "storage_bucket": "half-b46c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712110704258:android:e165ebf2b46ffa8873d69b",
+        "android_client_info": {
+          "package_name": "com.tecnologias.half"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712110704258-dkls3bmm9dssmdvj20rp4306r0tj7u0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC49MKZmBrJb_uIBk7OtkgFCEgWSNMPfLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712110704258-dkls3bmm9dssmdvj20rp4306r0tj7u0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
